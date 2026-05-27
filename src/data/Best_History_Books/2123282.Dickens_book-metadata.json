@@ -1,0 +1,21 @@
+{
+    "book_id": "2123282.Dickens",
+    "book_title": "Dickens",
+    "author": "Peter Ackroyd",
+    "book_description": "Biography of Dickens",
+    "genres": [
+        "Biography",
+        "Nonfiction",
+        "History",
+        "Biography Memoir",
+        "Victorian",
+        "Literature",
+        "British Literature",
+        "...more"
+    ],
+    "average_rating": "3.89",
+    "num_ratings": "2366",
+    "num_pages": "1195",
+    "year_published": "1990",
+    "scrape_date": "2026-04-17 21:41:23.736898"
+}

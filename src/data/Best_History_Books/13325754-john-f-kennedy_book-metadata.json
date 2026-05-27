@@ -1,0 +1,17 @@
+{
+    "book_id": "13325754-john-f-kennedy",
+    "book_title": "John F. Kennedy: In His Own Words",
+    "author": "John F. Kennedy",
+    "book_description": "Excellent Book",
+    "genres": [
+        "Politics",
+        "History",
+        "Biography",
+        "Nonfiction"
+    ],
+    "average_rating": "4.28",
+    "num_ratings": "140",
+    "num_pages": "82",
+    "year_published": "2011",
+    "scrape_date": "2026-04-17 16:21:50.658045"
+}

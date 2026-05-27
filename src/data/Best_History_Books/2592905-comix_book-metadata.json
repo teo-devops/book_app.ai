@@ -1,0 +1,17 @@
+{
+    "book_id": "2592905-comix",
+    "book_title": "Comix: A History of Comic Books in America",
+    "author": "Les Daniels",
+    "book_description": "Great history of comics in America.",
+    "genres": [
+        "Comics",
+        "Nonfiction",
+        "History",
+        "Art"
+    ],
+    "average_rating": "4.03",
+    "num_ratings": "87",
+    "num_pages": "198",
+    "year_published": "1971",
+    "scrape_date": "2026-04-17 17:23:21.293970"
+}

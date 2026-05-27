@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Artefacto de distribución (derivable de los notebooks)
+notebooks_resueltos.zip
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+notebooks_resueltos/

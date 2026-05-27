@@ -1,0 +1,21 @@
+{
+    "book_id": "2333956.The_Annotated_Turing",
+    "book_title": "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine",
+    "author": "Charles Petzold",
+    "book_description": "Programming Legend Charles Petzold unlocks the secrets of the extraordinary and prescient 1936 paper by Alan M. Turing\n Mathematician Alan Turing invented an imaginary computer known as the Turing Machine; in an age before computers, he explored the concept of what it meant to be \"computable,\" creating the field of computability theory in the process, a foundation of present-day computer programming.The book expands Turing's original 36-page paper with additional background chapters and extensive annotations; the author elaborates on and clarifies many of Turing's statements, making the original difficult-to-read document accessible to present day programmers, computer science majors, math geeks, and others.Interwoven into the narrative are the highlights of Turing's own life: his years at Cambridge and Princeton, his secret work in cryptanalysis during World War II, his involvement in seminal computer projects, his speculations about artificial intelligence, his arrest and prosecution for the crime of \"gross indecency,\" and his early death by apparent suicide at the age of 41.Show more",
+    "genres": [
+        "Computer Science",
+        "Science",
+        "Nonfiction",
+        "Programming",
+        "Mathematics",
+        "History",
+        "Technology",
+        "...more"
+    ],
+    "average_rating": "4.27",
+    "num_ratings": "1185",
+    "num_pages": "372",
+    "year_published": "2008",
+    "scrape_date": "2026-04-17 21:47:30.304417"
+}

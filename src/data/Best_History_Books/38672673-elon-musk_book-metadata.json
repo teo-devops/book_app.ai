@@ -1,0 +1,15 @@
+{
+    "book_id": "38672673-elon-musk",
+    "book_title": "Elon Musk: The Unauthorized Autobiography",
+    "author": "J.T. Owens",
+    "book_description": "Elon Musk shares the story of his life and dreams. One of the world's most successful and daring entrepreneurs, who is not only trying to redefine transportation on Earth and in space, but is also on the forefront of moving humanity towards a sustainable future. Learn about the history of Tesla, SpaceX, SolarCity, PayPal, OpenAI and more...",
+    "genres": [
+        "Biography",
+        "Business"
+    ],
+    "average_rating": "4.25",
+    "num_ratings": "110",
+    "num_pages": "461",
+    "year_published": "2018",
+    "scrape_date": "2026-04-17 21:46:56.971412"
+}

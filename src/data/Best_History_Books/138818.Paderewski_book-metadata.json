@@ -1,0 +1,16 @@
+{
+    "book_id": "138818.Paderewski",
+    "book_title": "Paderewski",
+    "author": "Adam Zamoyski",
+    "book_description": "Book by Zamoyski, Adam",
+    "genres": [
+        "Biography",
+        "Music",
+        "Poland"
+    ],
+    "average_rating": "4.16",
+    "num_ratings": "49",
+    "num_pages": "289",
+    "year_published": "1982",
+    "scrape_date": "2026-04-17 22:10:12.703379"
+}

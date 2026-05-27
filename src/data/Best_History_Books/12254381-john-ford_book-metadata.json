@@ -1,0 +1,17 @@
+{
+    "book_id": "12254381-john-ford",
+    "book_title": "John Ford: A Biography",
+    "author": "Andrew Sinclair",
+    "book_description": "The definitive biography of the legendary filmmaker. With complete filmography and index. 36 pages of black & white photographs.",
+    "genres": [
+        "Biography",
+        "Film",
+        "Nonfiction",
+        "Biography Memoir"
+    ],
+    "average_rating": "3.61",
+    "num_ratings": "23",
+    "num_pages": "305",
+    "year_published": "1979",
+    "scrape_date": "2026-04-17 22:02:51.732033"
+}
